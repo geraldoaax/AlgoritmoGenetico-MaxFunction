@@ -20,11 +20,11 @@ Figura 1 – Estrutura geral de algoritmos genéticos – Fonte: Catarina, 2005.
 
 Com o desenvolvimento do algoritmo viu-se necessário em equalizar os resultados apresentados para não desprezar os valores negativos acrescentando +3 na f(x) sendo: (f(x) + 3) para gerar o fitness. Com isso houve um deslocamento da função de x gerando o seguinte gráfico:
  
-![alt text](https://github.com/geraldoaax/AlgoritmoGenetico-MaxFunction/blob/main/AG/img/resultado.png?raw=true)
+<img src=https://github.com/geraldoaax/AlgoritmoGenetico-MaxFunction/blob/main/AG/img/resultado.png/>
 
 Figura 2 – Gráfico de Resultados da AG.
 
-![alt text](https://github.com/geraldoaax/AlgoritmoGenetico-MaxFunction/blob/main/AG/img/interface.png?raw=true)
+<img src=https://github.com/geraldoaax/AlgoritmoGenetico-MaxFunction/blob/main/AG/img/interface.png/>
  
 A figura 3 - Representa a interface completa do problema desenvolvido.
 
@@ -35,7 +35,7 @@ O Algoritmo Genético conseguiu resolver o problema rapidamente e com uma precis
 A Computação Evolutiva é deve ser utilizada como mais uma ferramenta para resolução de problemas computacionais, sobretudo quando temos um vasto campo de busca.
 Com alterações em probabilidade de cruzamento e mutação o algoritmo se torna menos “viciado” e é interessante os resultados apresentados. Outros valores como número de genes e quantidade da geração tem impacto consideráveis nos resultados apresentados.
 
-![alt text](https://github.com/geraldoaax/AlgoritmoGenetico-MaxFunction/blob/main/AG/img/alteracoes_valores.png?raw=true)
+<img src=https://github.com/geraldoaax/AlgoritmoGenetico-MaxFunction/blob/main/AG/img/alteracoes_valores.png/>
  
 Figura 04 – Exemplo de Alterações em Valores de Cruzamento, Mutação, Gerações e Genes.
 
