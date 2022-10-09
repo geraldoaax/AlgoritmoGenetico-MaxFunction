@@ -14,7 +14,7 @@ O Elitismo mantém pelo menos uma cópia sem alterações da melhor solução da
 Basicamente os algoritmos genéticos seguem o seguinte algoritmo generalista:
 
 <p align="center">
-![alt text](https://github.com/geraldoaax/AlgoritmoGenetico-MaxFunction/blob/main/AG/img/estrutura_ag.png?raw=true)
+<img src=https://github.com/geraldoaax/AlgoritmoGenetico-MaxFunction/blob/main/AG/img/estrutura_ag.png/>
 </p>
 Figura 1 – Estrutura geral de algoritmos genéticos – Fonte: Catarina, 2005.
 
