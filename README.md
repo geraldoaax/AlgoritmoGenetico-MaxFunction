@@ -23,11 +23,13 @@ Com o desenvolvimento do algoritmo viu-se necessário em equalizar os resultados
  
 <p align="center">
 <img src=https://github.com/geraldoaax/AlgoritmoGenetico-MaxFunction/blob/main/AG/img/resultado.png/>
+<br/>
 Figura 2 – Gráfico de Resultados da AG.
 </p>
 
 <p align="center"> 
 <img src=https://github.com/geraldoaax/AlgoritmoGenetico-MaxFunction/blob/main/AG/img/interface.png/>
+<br/>
 A figura 3 - Representa a interface completa do problema desenvolvido.
 </p>
 
@@ -40,6 +42,7 @@ Com alterações em probabilidade de cruzamento e mutação o algoritmo se torna
 
 <p align="center">
 <img src=https://github.com/geraldoaax/AlgoritmoGenetico-MaxFunction/blob/main/AG/img/alteracoes_valores.png/>
+<br/>
 Figura 04 – Exemplo de Alterações em Valores de Cruzamento, Mutação, Gerações e Genes.
 </p>
 
