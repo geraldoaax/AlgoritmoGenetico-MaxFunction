@@ -15,6 +15,7 @@ Basicamente os algoritmos genéticos seguem o seguinte algoritmo generalista:
 
 <p align="center">
 <img src=https://github.com/geraldoaax/AlgoritmoGenetico-MaxFunction/blob/main/AG/img/estrutura_ag.png/>
+<br/>
 Figura 1 – Estrutura geral de algoritmos genéticos – Fonte: Catarina, 2005.
 </p>
 
