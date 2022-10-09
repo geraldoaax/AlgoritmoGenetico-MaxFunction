@@ -1,3 +1,7 @@
+## Projeto
+
+Este projeto foi desenvolvido com Visual Studio com VB.NET e atualizado para a versão 2022 com o .NET 4.8 mas exige > .NET 4.5.2)
+(Pode ser alterado no arquivo de solução)
 
 ## Introdução
 
