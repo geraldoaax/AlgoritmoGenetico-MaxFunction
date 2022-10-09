@@ -13,8 +13,9 @@ Elitismo
 O Elitismo mantém pelo menos uma cópia sem alterações da melhor solução da geração anterior é passada para a nova população, de forma que a melhor solução possa sobreviver às sucessivas gerações.
 Basicamente os algoritmos genéticos seguem o seguinte algoritmo generalista:
 
+<p align="center">
 ![alt text](https://github.com/geraldoaax/AlgoritmoGenetico-MaxFunction/blob/main/AG/img/estrutura_ag.png?raw=true)
-
+</p>
 Figura 1 – Estrutura geral de algoritmos genéticos – Fonte: Catarina, 2005.
 
 Com o desenvolvimento do algoritmo viu-se necessário em equalizar os resultados apresentados para não desprezar os valores negativos acrescentando +3 na f(x) sendo: (f(x) + 3) para gerar o fitness. Com isso houve um deslocamento da função de x gerando o seguinte gráfico:
