@@ -20,12 +20,14 @@ Figura 1 – Estrutura geral de algoritmos genéticos – Fonte: Catarina, 2005.
 
 Com o desenvolvimento do algoritmo viu-se necessário em equalizar os resultados apresentados para não desprezar os valores negativos acrescentando +3 na f(x) sendo: (f(x) + 3) para gerar o fitness. Com isso houve um deslocamento da função de x gerando o seguinte gráfico:
  
+<p align="center">
 <img src=https://github.com/geraldoaax/AlgoritmoGenetico-MaxFunction/blob/main/AG/img/resultado.png/>
-
+</p>
 Figura 2 – Gráfico de Resultados da AG.
 
+<p align="center"> 
 <img src=https://github.com/geraldoaax/AlgoritmoGenetico-MaxFunction/blob/main/AG/img/interface.png/>
- 
+</p>
 A figura 3 - Representa a interface completa do problema desenvolvido.
 
 ## Conclusão
@@ -36,9 +38,9 @@ A Computação Evolutiva é deve ser utilizada como mais uma ferramenta para res
 Com alterações em probabilidade de cruzamento e mutação o algoritmo se torna menos “viciado” e é interessante os resultados apresentados. Outros valores como número de genes e quantidade da geração tem impacto consideráveis nos resultados apresentados.
 
 <img src=https://github.com/geraldoaax/AlgoritmoGenetico-MaxFunction/blob/main/AG/img/alteracoes_valores.png/>
- 
+<p align="center"> 
 Figura 04 – Exemplo de Alterações em Valores de Cruzamento, Mutação, Gerações e Genes.
-
+</p>
 ## Referências Bibliográficas
 
 CATARINA, A.S. Algoritmos evolutivos aplicados ao processo de análise de dados geográficos. São José dos Campos: [s,n], 2005.
